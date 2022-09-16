@@ -1,13 +1,9 @@
 {
   "files": {
-    "main.css": "/home-page/static/css/main.8e1dcfb8.css",
-    "main.js": "/home-page/static/js/main.18a98513.js",
+    "main.css": "/home-page/static/css/main.af244d2f.css",
+    "main.js": "/home-page/static/js/main.94be85d2.js",
     "static/media/bg-12.jpg": "/home-page/static/media/bg-12.57adabee52cb3215b5f3.jpg",
     "static/media/bg-8.jpg": "/home-page/static/media/bg-8.4201f023775727504ac3.jpg",
-    "static/media/UXSCAN.png": "/home-page/static/media/UXSCAN.11338758f8349369f2de.png",
-    "static/media/Stats.png": "/home-page/static/media/Stats.4e780421d79aaf835ab7.png",
-    "static/media/UXQR.png": "/home-page/static/media/UXQR.53580c3a96e60c105e56.png",
-    "static/media/Dash.png": "/home-page/static/media/Dash.c6804ff011801a89e665.png",
     "static/media/bg-5.jpg": "/home-page/static/media/bg-5.57d9e0298086941c263b.jpg",
     "static/media/square-purple-1.png": "/home-page/static/media/square-purple-1.ed3a5e3801e35e68ab23.png",
     "static/media/I-Reggie.png": "/home-page/static/media/I-Reggie.d912854b49686e8ca3d6.png",
@@ -15,10 +11,12 @@
     "static/media/I-Sacha.png": "/home-page/static/media/I-Sacha.13df572e05c11478c4b3.png",
     "static/media/I-Steven.png": "/home-page/static/media/I-Steven.6886f6e62e90f5365b87.png",
     "static/media/square4.png": "/home-page/static/media/square4.b0072563cab16ef45d81.png",
+    "static/media/UXQR.svg": "/home-page/static/media/UXQR.ef265b42904d69fad1d64c85143fa64b.svg",
     "static/media/square1.png": "/home-page/static/media/square1.082ea17aaf44aed9868a.png",
     "static/media/square3.png": "/home-page/static/media/square3.235ea41b7cee0696448d.png",
     "static/media/square2.png": "/home-page/static/media/square2.8ce0f9b6a9f216ada045.png",
     "static/media/square5.png": "/home-page/static/media/square5.16283001f5a086113265.png",
+    "static/media/Dash.svg": "/home-page/static/media/Dash.4ae7cc6f119c4c4c880be5c2cea6a42b.svg",
     "static/media/BlockChain.svg": "/home-page/static/media/BlockChain.624bc34c7d72fa6f03262ad946a4d433.svg",
     "static/media/darken-night-sky-full-of-stars-fantasy-animation-made-of-magical-sparkly-light-particles-flickering-on-a-purple-blue-gradient-background_bajacpz7x_thumbnail-full01.png": "/home-page/static/media/darken-night-sky-full-of-stars-fantasy-animation-made-of-magical-sparkly-light-particles-flickering-on-a-purple-blue-gradient-background_bajacpz7x_thumbnail-full01.049a2cd26a85856a45e6.png",
     "static/media/Flow.svg": "/home-page/static/media/Flow.c9b9ca03fc4a55c3634f0016f7fe676f.svg",
@@ -33,6 +31,8 @@
     "static/media/AtlasGrotesk-Light.otf": "/home-page/static/media/AtlasGrotesk-Light.af326fe77bc8f773215c.otf",
     "static/media/AtlasGrotesk-Regular.otf": "/home-page/static/media/AtlasGrotesk-Regular.36a4347f3a99efcb3137.otf",
     "static/media/mark-finn.jpg": "/home-page/static/media/mark-finn.40b788574c95a0ec347e.jpg",
+    "static/media/UXSCAN.svg": "/home-page/static/media/UXSCAN.113c2757078be369d43acf99c2645c00.svg",
+    "static/media/Stats.svg": "/home-page/static/media/Stats.ba37531d866095d968d40f2069b1253e.svg",
     "static/media/lora.jpg": "/home-page/static/media/lora.47bdc98a432e80ad8a55.jpg",
     "static/media/path1.png": "/home-page/static/media/path1.a0d20b6041dada5ed4fd.png",
     "static/media/ryan.jpg": "/home-page/static/media/ryan.7990a5daca72c70c8868.jpg",
@@ -48,11 +48,11 @@
     "static/media/google.svg": "/home-page/static/media/google.eae9aa9354350126d1b032847835a051.svg",
     "static/media/github.svg": "/home-page/static/media/github.6c95555646a0ecabf549179c97bf0e7d.svg",
     "index.html": "/home-page/index.html",
-    "main.8e1dcfb8.css.map": "/home-page/static/css/main.8e1dcfb8.css.map",
-    "main.18a98513.js.map": "/home-page/static/js/main.18a98513.js.map"
+    "main.af244d2f.css.map": "/home-page/static/css/main.af244d2f.css.map",
+    "main.94be85d2.js.map": "/home-page/static/js/main.94be85d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e1dcfb8.css",
-    "static/js/main.18a98513.js"
+    "static/css/main.af244d2f.css",
+    "static/js/main.94be85d2.js"
   ]
 }
