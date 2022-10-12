@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.31b9ff8c.css",
-    "main.js": "/static/js/main.6ceb7d7e.js",
+    "main.js": "/static/js/main.13d3c92e.js",
     "static/media/bg-12.jpg": "/static/media/bg-12.57adabee52cb3215b5f3.jpg",
     "static/media/bg-8.jpg": "/static/media/bg-8.4201f023775727504ac3.jpg",
     "static/media/UXSCAN.png": "/static/media/UXSCAN.11338758f8349369f2de.png",
@@ -21,7 +21,7 @@
     "static/media/square5.png": "/static/media/square5.16283001f5a086113265.png",
     "static/media/BlockChain.svg": "/static/media/BlockChain.624bc34c7d72fa6f03262ad946a4d433.svg",
     "static/media/darken-night-sky-full-of-stars-fantasy-animation-made-of-magical-sparkly-light-particles-flickering-on-a-purple-blue-gradient-background_bajacpz7x_thumbnail-full01.png": "/static/media/darken-night-sky-full-of-stars-fantasy-animation-made-of-magical-sparkly-light-particles-flickering-on-a-purple-blue-gradient-background_bajacpz7x_thumbnail-full01.049a2cd26a85856a45e6.png",
-    "static/media/Flow.svg": "/static/media/Flow.c9b9ca03fc4a55c3634f0016f7fe676f.svg",
+    "static/media/Flow.svg": "/static/media/Flow.eddd1c373d14e365928f1c1ef34d4e80.svg",
     "static/media/night-sky-full-of-stars-fantasy-animation-made-of-magical-sparkly-light-particles-flickering-on-a-purple-blue-gradient-background_bajacpz7x_thumbnail-full01.png": "/static/media/night-sky-full-of-stars-fantasy-animation-made-of-magical-sparkly-light-particles-flickering-on-a-purple-blue-gradient-background_bajacpz7x_thumbnail-full01.e6a30d27482b2b409f71.png",
     "static/media/profile-page.png": "/static/media/profile-page.b97e816b5091a9a64dfa.png",
     "static/media/denys.jpg": "/static/media/denys.1b33975a99042a1db172.jpg",
@@ -49,10 +49,10 @@
     "static/media/github.svg": "/static/media/github.6c95555646a0ecabf549179c97bf0e7d.svg",
     "index.html": "/index.html",
     "main.31b9ff8c.css.map": "/static/css/main.31b9ff8c.css.map",
-    "main.6ceb7d7e.js.map": "/static/js/main.6ceb7d7e.js.map"
+    "main.13d3c92e.js.map": "/static/js/main.13d3c92e.js.map"
   },
   "entrypoints": [
     "static/css/main.31b9ff8c.css",
-    "static/js/main.6ceb7d7e.js"
+    "static/js/main.13d3c92e.js"
   ]
 }
